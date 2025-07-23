@@ -1,0 +1,37 @@
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\bin\Debug\SGM_College_APP.exe.config
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\bin\Debug\SGM_College_APP.exe
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\bin\Debug\SGM_College_APP.pdb
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Login.resources
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.exe
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.pdb
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.Frm_Student_List.resources
+C:\Users\ASUS\Desktop\Atharv\.Net\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Add_New_Student.resources
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\bin\Debug\SGM_College_APP.exe.config
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\bin\Debug\SGM_College_APP.exe
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\bin\Debug\SGM_College_APP.pdb
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.AssemblyReference.cache
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Login.resources
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Add_New_Student.resources
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.Properties.Resources.resources
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.GenerateResource.cache
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.CoreCompileInputs.cache
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.exe
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.pdb
+D:\Atharv\.Net\Assignment 01\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Student_List_Details.resources
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\bin\Debug\SGM_College_APP.exe.config
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\bin\Debug\SGM_College_APP.exe
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\bin\Debug\SGM_College_APP.pdb
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.AssemblyReference.cache
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Login.resources
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Add_New_Student.resources
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.frm_Student_List_Details.resources
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.Properties.Resources.resources
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.GenerateResource.cache
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.csproj.CoreCompileInputs.cache
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.exe
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.pdb
+D:\Atharv\.Net\Assignment 02\SGM_College_APP\SGM_College_APP\obj\Debug\SGM_College_APP.Frm_Student_Details_Search.resources
